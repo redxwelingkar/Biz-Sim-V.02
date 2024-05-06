@@ -6,12 +6,12 @@
     --light-shadow: rgba(255, 255, 255, 0.25);
 }
 
-body {
+/* body {
     background-image: url(./img/bg.svg);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
-}
+} */
 
 .APP {
     height: 100vh;
